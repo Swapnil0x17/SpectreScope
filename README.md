@@ -261,12 +261,15 @@ Contributions, bug reports, and feature suggestions are welcome.
 Please refer to the repository's `LICENSE` file for the applicable license and terms of use.
 
 ---
-
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Swapnil0x17**
 
 🔗 GitHub: [@Swapnil0x17](https://github.com/Swapnil0x17)
+
+**Hasan**
+
+🔗 GitHub: [@Iamhasan69](https://github.com/Iamhasan69)
 
 🔗 Repository: [SpectreScope](https://github.com/Swapnil0x17/SpectreScope)
 
